@@ -1,0 +1,17 @@
+1. Login as Admin - email:admin@company.com | password : 123
+   ↓
+2. Create Employee
+   ↓
+3. Create Manager
+   ↓
+4. Login as Employee
+   ↓
+5. Apply Leave
+   ↓
+6. Login as Manager
+   ↓
+7. Approve Leave
+   ↓
+8. Login as Admin
+   ↓
+9. Show Reports & Analytics

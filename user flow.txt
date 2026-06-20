@@ -1,0 +1,23 @@
+Login
+ │
+ ├── Employee
+ │    │
+ │    ├── View Leave Balance
+ │    ├── Apply Leave
+ │    ├── View History
+ │    └── Logout
+ │
+ ├── Manager
+ │    │
+ │    ├── View Requests
+ │    ├── Approve
+ │    ├── Reject
+ │    └── Analytics
+ │
+ └── Admin
+      │
+      ├── Create Employee
+      ├── Create Manager
+      ├── View Reports
+      ├── Organization Stats
+      └── User Management
